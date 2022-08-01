@@ -1,9 +1,10 @@
-# Simple cimgui example using OpenGL 3 and SDL
+# Simple cimgui example using OpenGL and SDL
 
 Simple example of C project with Dear ImGui using [cimgui](https://github.com/cimgui/cimgui) binding.
 
 ## Requirements (Linux)
 
+* CMake
 * SDL
     * `sudo apt-get install libsdl2-dev`
 
